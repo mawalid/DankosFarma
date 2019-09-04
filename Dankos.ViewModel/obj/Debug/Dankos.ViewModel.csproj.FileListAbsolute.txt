@@ -1,0 +1,10 @@
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.ViewModel\bin\Debug\Dankos.ViewModel.dll.config
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.ViewModel\bin\Debug\Dankos.ViewModel.dll
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.ViewModel\bin\Debug\Dankos.ViewModel.pdb
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.ViewModel\bin\Debug\EntityFramework.dll
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.ViewModel\bin\Debug\EntityFramework.xml
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.ViewModel\obj\Debug\Dankos.ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.ViewModel\obj\Debug\Dankos.ViewModel.dll
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.ViewModel\obj\Debug\Dankos.ViewModel.pdb

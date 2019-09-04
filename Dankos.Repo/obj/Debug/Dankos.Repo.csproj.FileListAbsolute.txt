@@ -1,0 +1,14 @@
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.Repo\obj\Debug\Dankos.Repo.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.Repo\bin\Debug\Dankos.Repo.dll.config
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.Repo\bin\Debug\Dankos.Repo.dll
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.Repo\bin\Debug\Dankos.Repo.pdb
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.Repo\bin\Debug\Dankos.Model.dll
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.Repo\bin\Debug\Dankos.ViewModel.dll
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.Repo\bin\Debug\EntityFramework.dll
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.Repo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.Repo\bin\Debug\Dankos.Model.pdb
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.Repo\bin\Debug\Dankos.ViewModel.pdb
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.Repo\bin\Debug\EntityFramework.xml
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.Repo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.Repo\obj\Debug\Dankos.Repo.dll
+C:\Users\PC\Downloads\KALBEFARMA\DankosFarma\Dankos.Repo\obj\Debug\Dankos.Repo.pdb
